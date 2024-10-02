@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string-array name="operation_array">
+        <item>Cerradura de Kleene</item>
+        <item>Cerradura Positiva</item>
+    </string-array>
+
+</resources>
